@@ -16,7 +16,7 @@ The page features glowing gradients, flower showers, confetti effects, and an an
 ---
 
 ## 🚀 Live Demo  
-👉 [Click here to view the website](https://your-username.github.io/ganesh-chaturthi-website/)  
+👉 [Click here to view the website]([https://your-username.github.io/ganesh-chaturthi-website/](https://ask5665.github.io/animated-Ganesh-Chaturthi-website/))  
 *(Replace with your actual GitHub Pages / Netlify link)*  
 
 ---
