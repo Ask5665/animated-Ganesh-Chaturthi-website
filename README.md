@@ -22,7 +22,7 @@ The page features glowing gradients, flower showers, confetti effects, and an an
 ---
 
 ## 🎥 Preview  
-![Ganesh Chaturthi Website Demo](assets/demo.gif)  
+![Ganesh Chaturthi Website Demo](https://github.com/Ask5665/animated-Ganesh-Chaturthi-website/blob/44394e58c2bbafa710d4fb2646cff5cc123a3ac1/gansh.gif)  
 *(Add your demo GIF in `assets/demo.gif` or update the path accordingly)*  
 
 ---
